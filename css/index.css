@@ -80,7 +80,7 @@ body {
 }
 
 .menu {
-    position: relative;
+    position: fixed;
     background: #000;
     height: 3rem;
     width: 2rem;
