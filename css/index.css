@@ -51,6 +51,7 @@ body {
     -moz-transition: top .3s .5s linear;
     -ms-transition: top .3s .5s linear;
     -o-transition: top .3s .5s linear;
+    z-index: 1;
 }
 
 .navbar__link {
